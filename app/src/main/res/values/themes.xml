@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Theme.AirMiniReceiver" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+
+</resources>
